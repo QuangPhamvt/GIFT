@@ -1,0 +1,18 @@
+export const LIST_REJECTED: string[] = [
+  "NO",
+  "ARE YOUR SURE?",
+  "Really sure?",
+  "Think again",
+  "Last chance",
+  "Sure or not?",
+  "You might regret this!",
+  "Give it another thought!",
+  "Are you absolutely sure?",
+  "This is could be a mistake",
+  "Have a heart!",
+  "Don't be so cold!",
+  "Change of heart?",
+  "Wouldn't you reconsider?",
+  "Is that your final answer?",
+  "You're breaking my heart :(",
+];
